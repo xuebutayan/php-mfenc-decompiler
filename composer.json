@@ -2,8 +2,6 @@
     "name": "ganlv/mfenc-decompiler",
     "description": "A decompiler for php mfenc",
     "keywords": ["php", "mfenc", "decompiler"],
-    "type": "project",
-    "license": "AGPL-3.0",
     "authors": [
         {
             "name": "Ganlv"
